@@ -1,3 +1,6 @@
+Created a Food ordering website's frontend.
+Where user can add items to his cart, and can order food accordingly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
